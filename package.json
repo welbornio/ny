@@ -1,0 +1,25 @@
+{
+  "name": "ny",
+  "version": "0.0.1",
+  "description": "Asynchronous bash/zsh task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:welbornio/ny.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Ethan Welborn @welbornio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/welbornio/ny/issues"
+  },
+  "bin": {
+    "ny": "index.js"
+  },
+  "homepage": "https://github.com/welbornio/ny"
+}
