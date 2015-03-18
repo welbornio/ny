@@ -21,5 +21,8 @@
   "bin": {
     "ny": "index.js"
   },
-  "homepage": "https://github.com/welbornio/ny"
+  "homepage": "https://github.com/welbornio/ny",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
 }
